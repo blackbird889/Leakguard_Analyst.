@@ -1,0 +1,7 @@
+asyncio
+spacy==3.5.0
+requests==2.31.0
+networkx==3.1
+matplotlib==3.7.1
+telethon==1.29.0
+rich==13.4.0
