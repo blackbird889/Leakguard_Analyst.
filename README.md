@@ -9,8 +9,8 @@ LeakGuard Analyst is a comprehensive tool designed for detecting and analyzing d
 - **IP Geolocation**: Geolocate IP addresses found in messages using ipinfo.io.
 - **Entity Extraction**: Extract entities from messages using Named Entity Recognition (NER).
 - **Contextual Keyword Search**: Perform searches based on predefined or custom keywords.
-
-![git  9](https://github.com/user-attachments/assets/f53ad7cd-21c4-4ccc-ba34-469761528742)
+  
+![121](https://github.com/user-attachments/assets/2848883e-e3c1-473c-9eff-57643cd81400)
 
 ![010](https://github.com/user-attachments/assets/7d55bfc2-870e-4b06-b029-068bbf43b503)
 
