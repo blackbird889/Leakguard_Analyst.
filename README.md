@@ -9,6 +9,20 @@ LeakGuard Analyst is a comprehensive tool designed for detecting and analyzing d
 - **IP Geolocation**: Geolocate IP addresses found in messages using ipinfo.io.
 - **Entity Extraction**: Extract entities from messages using Named Entity Recognition (NER).
 - **Contextual Keyword Search**: Perform searches based on predefined or custom keywords.
+
+  ## Prerequisites
+
+- Python 3.x
+- Telegram API credentials (API ID and API Hash)
+- ipinfo.io token (optional, for IP geolocation)
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/LeakGuard-Analyst.git
+   cd LeakGuard-Analyst
+
   
 ![121](https://github.com/user-attachments/assets/2848883e-e3c1-473c-9eff-57643cd81400)
 
